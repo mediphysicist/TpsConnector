@@ -1,6 +1,9 @@
 # TPS Connector  
 ### Integration for RT Tools  
 
+🇺🇸 English | 🇹🇷 [Türkçe](README.tr.md)
+
+
 ## 📱 RT Tools Links  
 - **Apple App Store:** [Download on the App Store](https://apps.apple.com/tr/app/radiotherapy-tools/id6742157886?l)  
 - **Google Play Store:** [Get it on Google Play](https://play.google.com/store/apps/details?id=com.dyerol.radiotherapytools)  
