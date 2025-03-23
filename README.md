@@ -148,3 +148,8 @@
 If you have any questions or need support, feel free to reach out! 🚀  
 
 ---
+
+For Elekta Users : 
+ - DVH Comparison for CC (cubic centimeter) data is not available (monaco dvh export does not include cc data)
+ - Elekta TPS Connector needs you to export dvh to a folder
+ - Choose Folder from Elekta TPS Connector menu to list patients
